@@ -1,0 +1,13 @@
+D:\C#\AP_16\DelagateApp3\bin\Debug\netcoreapp3.1\DelagateApp3.exe
+D:\C#\AP_16\DelagateApp3\bin\Debug\netcoreapp3.1\DelagateApp3.deps.json
+D:\C#\AP_16\DelagateApp3\bin\Debug\netcoreapp3.1\DelagateApp3.runtimeconfig.json
+D:\C#\AP_16\DelagateApp3\bin\Debug\netcoreapp3.1\DelagateApp3.runtimeconfig.dev.json
+D:\C#\AP_16\DelagateApp3\bin\Debug\netcoreapp3.1\DelagateApp3.dll
+D:\C#\AP_16\DelagateApp3\bin\Debug\netcoreapp3.1\DelagateApp3.pdb
+D:\C#\AP_16\DelagateApp3\obj\Debug\netcoreapp3.1\DelagateApp3.csprojAssemblyReference.cache
+D:\C#\AP_16\DelagateApp3\obj\Debug\netcoreapp3.1\DelagateApp3.AssemblyInfoInputs.cache
+D:\C#\AP_16\DelagateApp3\obj\Debug\netcoreapp3.1\DelagateApp3.AssemblyInfo.cs
+D:\C#\AP_16\DelagateApp3\obj\Debug\netcoreapp3.1\DelagateApp3.csproj.CoreCompileInputs.cache
+D:\C#\AP_16\DelagateApp3\obj\Debug\netcoreapp3.1\DelagateApp3.dll
+D:\C#\AP_16\DelagateApp3\obj\Debug\netcoreapp3.1\DelagateApp3.pdb
+D:\C#\AP_16\DelagateApp3\obj\Debug\netcoreapp3.1\DelagateApp3.genruntimeconfig.cache

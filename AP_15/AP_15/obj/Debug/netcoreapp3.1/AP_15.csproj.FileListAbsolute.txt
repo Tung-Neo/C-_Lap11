@@ -1,0 +1,12 @@
+D:\C#\AP_15\AP_15\bin\Debug\netcoreapp3.1\AP_15.exe
+D:\C#\AP_15\AP_15\bin\Debug\netcoreapp3.1\AP_15.deps.json
+D:\C#\AP_15\AP_15\bin\Debug\netcoreapp3.1\AP_15.runtimeconfig.json
+D:\C#\AP_15\AP_15\bin\Debug\netcoreapp3.1\AP_15.runtimeconfig.dev.json
+D:\C#\AP_15\AP_15\bin\Debug\netcoreapp3.1\AP_15.dll
+D:\C#\AP_15\AP_15\bin\Debug\netcoreapp3.1\AP_15.pdb
+D:\C#\AP_15\AP_15\obj\Debug\netcoreapp3.1\AP_15.AssemblyInfoInputs.cache
+D:\C#\AP_15\AP_15\obj\Debug\netcoreapp3.1\AP_15.AssemblyInfo.cs
+D:\C#\AP_15\AP_15\obj\Debug\netcoreapp3.1\AP_15.csproj.CoreCompileInputs.cache
+D:\C#\AP_15\AP_15\obj\Debug\netcoreapp3.1\AP_15.dll
+D:\C#\AP_15\AP_15\obj\Debug\netcoreapp3.1\AP_15.pdb
+D:\C#\AP_15\AP_15\obj\Debug\netcoreapp3.1\AP_15.genruntimeconfig.cache

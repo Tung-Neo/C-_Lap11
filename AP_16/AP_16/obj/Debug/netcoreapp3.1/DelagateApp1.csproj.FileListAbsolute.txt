@@ -1,0 +1,12 @@
+D:\C#\AP_16\AP_16\bin\Debug\netcoreapp3.1\DelagateApp1.exe
+D:\C#\AP_16\AP_16\bin\Debug\netcoreapp3.1\DelagateApp1.deps.json
+D:\C#\AP_16\AP_16\bin\Debug\netcoreapp3.1\DelagateApp1.runtimeconfig.json
+D:\C#\AP_16\AP_16\bin\Debug\netcoreapp3.1\DelagateApp1.runtimeconfig.dev.json
+D:\C#\AP_16\AP_16\bin\Debug\netcoreapp3.1\DelagateApp1.dll
+D:\C#\AP_16\AP_16\bin\Debug\netcoreapp3.1\DelagateApp1.pdb
+D:\C#\AP_16\AP_16\obj\Debug\netcoreapp3.1\DelagateApp1.AssemblyInfoInputs.cache
+D:\C#\AP_16\AP_16\obj\Debug\netcoreapp3.1\DelagateApp1.AssemblyInfo.cs
+D:\C#\AP_16\AP_16\obj\Debug\netcoreapp3.1\DelagateApp1.csproj.CoreCompileInputs.cache
+D:\C#\AP_16\AP_16\obj\Debug\netcoreapp3.1\DelagateApp1.dll
+D:\C#\AP_16\AP_16\obj\Debug\netcoreapp3.1\DelagateApp1.pdb
+D:\C#\AP_16\AP_16\obj\Debug\netcoreapp3.1\DelagateApp1.genruntimeconfig.cache

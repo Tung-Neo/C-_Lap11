@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SSP11aSJHJYeBfFnI1oFDb/K1aCJkelhgpjstHSTTJyr3RuD2DTiiqROPrdLrvQgxN0VHJt3dBOnOD5oI90dCw==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\AP_16\\DelagateApp2\\DelagateApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
